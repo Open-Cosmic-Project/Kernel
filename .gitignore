@@ -6,4 +6,3 @@
 .DS_Store
 
 # El fork del kernel es su propio repositorio, anidado aquí
-linux/

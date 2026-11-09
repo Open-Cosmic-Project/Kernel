@@ -1,0 +1,3 @@
+Linux 6.18.60 (linux-6.18.y, LTS)
+Commit upstream: f45ed76d6791cf72ff1265ee93511175bbbc2f18
+Modificaciones: scripts/purge-arch.sh + edición de fs/Makefile, drivers/ras/Kconfig, crypto/Kconfig
